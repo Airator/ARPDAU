@@ -3,4 +3,4 @@
 
 [Расчет метрики ARPDAU(ipynb)](test_arpdau.ipynb)
 
-[SQL-запрос расчета метрики ARPDAU](SQL_ARPDAU)
+[SQL-запрос расчета метрики ARPDAU](SQL_ARPDAU.sql)
