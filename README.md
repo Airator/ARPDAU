@@ -1,4 +1,4 @@
 # ARPDAU
-[Расчет метрики ARPDAU](test_zimad_arpdau.ipynb)
+[Расчет метрики ARPDAU(py)](test_arpdau.py)
 
 [SQL-запрос расчета метрики ARPDAU](SQL_ARPDAU)
